@@ -1,0 +1,84 @@
+{
+  "_help": "{exchangeDays}, {deliveryDays}, {bkash}, {maxDiscount}, {insideLabel}, {insideCharge}, {outsideLabel}, {outsideCharge} lekha jaygay auto value boshbe (site.json theke). **lekha** dile bold hobe.",
+  "hero": {
+    "eyebrow": "New Season · {maxDiscount}% পর্যন্ত ছাড়",
+    "headline": "Wear the vibe.\nPay the offer price.",
+    "text": "স্নিকার, টি-শার্ট, পোলো ও শার্ট — ক্যাশ অন ডেলিভারিতে সারা বাংলাদেশে।",
+    "button": "শপিং শুরু করুন",
+    "secondaryButton": "WhatsApp-এ অর্ডার",
+    "points": ["ক্যাশ অন ডেলিভারি", "{deliveryDays} দিনে ডেলিভারি", "{exchangeDays} দিনে এক্সচেঞ্জ"],
+    "railTitle": "Trending এখন",
+    "featured": ["chunky-runner-sneaker", "sky-blue-tipped-polo", "red-check-flannel-shirt"]
+  },
+  "marquee": ["নতুন কালেকশন", "Sneakers", "T-Shirt", "Polo", "Shirt", "ক্যাশ অন ডেলিভারি", "WhatsApp-এ অর্ডার"],
+  "trust": [
+    { "title": "ক্যাশ অন ডেলিভারি", "text": "হাতে পেয়ে টাকা দিন" },
+    { "title": "{deliveryDays} দিনে ডেলিভারি", "text": "সারা বাংলাদেশে" },
+    { "title": "সাইজ এক্সচেঞ্জ", "text": "{exchangeDays} দিনের মধ্যে" },
+    { "title": "আসল ছবি", "text": "যা দেখছেন তাই পাবেন" }
+  ],
+  "sections": {
+    "categories": "ক্যাটাগরি",
+    "shopTitle": "সব প্রোডাক্ট",
+    "shopLead": "সাইজ বেছে কার্টে যোগ করুন, তারপর WhatsApp-এ অর্ডার পাঠান।",
+    "related": "আরও দেখুন",
+    "infoTitle": "ডেলিভারি, পেমেন্ট ও এক্সচেঞ্জ",
+    "termsTitle": "শর্তাবলি ও প্রাইভেসি"
+  },
+  "info": [
+    {
+      "title": "ডেলিভারি",
+      "lines": [
+        "অর্ডার কনফার্মের {deliveryDays} দিনের মধ্যে।",
+        "{insideLabel}: **{insideCharge}**",
+        "{outsideLabel}: **{outsideCharge}**"
+      ]
+    },
+    {
+      "title": "পেমেন্ট",
+      "lines": [
+        "ক্যাশ অন ডেলিভারি, অথবা bKash / Nagad (শুধু Send Money)।",
+        "পেমেন্ট শুধু এই নম্বরে: **{bkash}**",
+        "অর্ডার কনফার্মের জন্য ডেলিভারি চার্জ আগে নেওয়া হতে পারে।"
+      ]
+    },
+    {
+      "title": "এক্সচেঞ্জ",
+      "lines": [
+        "ডেলিভারির {exchangeDays} দিনের মধ্যে, শুধু সাইজ না মিললে বা প্রোডাক্ট ছেঁড়া/ত্রুটিপূর্ণ হলে।",
+        "সাইজের কারণে এক্সচেঞ্জে ডেলিভারি চার্জ ক্রেতা দেবেন। ত্রুটিপূর্ণ প্রোডাক্টে চার্জ আমরা দেব।"
+      ]
+    }
+  ],
+  "terms": [
+    "প্রোডাক্ট ও সাইজ বেছে কার্ট থেকে WhatsApp-এ অর্ডার পাঠান। আমরা দাম ও ঠিকানা কনফার্ম করার পর অর্ডার চূড়ান্ত হবে।",
+    "অর্ডার কনফার্মের {deliveryDays} দিনের মধ্যে ডেলিভারি। চার্জ {insideLabel} {insideCharge}, {outsideLabel} {outsideCharge}।",
+    "পেমেন্ট ক্যাশ অন ডেলিভারি, অথবা bKash / Nagad (Send Money) {bkash} নম্বরে।",
+    "এক্সচেঞ্জ শুধু সাইজ সমস্যা বা ত্রুটিপূর্ণ প্রোডাক্টের ক্ষেত্রে, ডেলিভারির {exchangeDays} দিনের মধ্যে জানাতে হবে।",
+    "আপনার নাম, ঠিকানা ও ফোন নম্বর শুধু ডেলিভারির জন্য ব্যবহার হয়, কারো সাথে শেয়ার করা হয় না।"
+  ],
+  "productNotes": [
+    "অর্ডার কনফার্মের {deliveryDays} দিনের মধ্যে ডেলিভারি",
+    "ক্যাশ অন ডেলিভারি সুবিধা",
+    "সাইজ না মিললে বা ত্রুটি থাকলে {exchangeDays} দিনের মধ্যে এক্সচেঞ্জ"
+  ],
+  "offer": {
+    "title": "{maxDiscount}% পর্যন্ত ছাড়",
+    "text": "নতুন সিজনের সব প্রোডাক্টে অফার দাম চলছে।",
+    "button": "অফার দেখুন",
+    "delaySeconds": 6
+  },
+  "sizeChart": {
+    "sneakers": {
+      "hint": "পায়ের গোড়ালি থেকে বুড়ো আঙুল পর্যন্ত মাপুন।",
+      "head": ["সাইজ (EU)", "পায়ের দৈর্ঘ্য (সেমি)"],
+      "rows": [["39", "24.5"], ["40", "25"], ["41", "26"], ["42", "26.5"], ["43", "27.5"], ["44", "28"]]
+    },
+    "clothing": {
+      "hint": "বগলের নিচে বুকের চারপাশ মাপুন (ইঞ্চি)।",
+      "head": ["সাইজ", "বুক (ইঞ্চি)", "লম্বা (ইঞ্চি)"],
+      "rows": [["M", "38–40", "27"], ["L", "40–42", "28"], ["XL", "42–44", "29"], ["XXL", "44–46", "30"]]
+    },
+    "footer": "মাপ নিয়ে সন্দেহ থাকলে WhatsApp-এ জিজ্ঞেস করুন।"
+  }
+}

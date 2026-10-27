@@ -1,0 +1,178 @@
+{
+  "sizes": {
+    "sneakers": ["39", "40", "41", "42", "43", "44"],
+    "clothing": ["M", "L", "XL", "XXL"]
+  },
+  "categories": [
+    { "slug": "sneakers", "name": "Sneakers", "bn": "স্নিকার", "sizeType": "sneakers" },
+    { "slug": "t-shirt", "name": "T-Shirt", "bn": "টি-শার্ট", "sizeType": "clothing" },
+    { "slug": "polo", "name": "Polo", "bn": "পোলো", "sizeType": "clothing" },
+    { "slug": "shirt", "name": "Shirt", "bn": "শার্ট", "sizeType": "clothing" }
+  ],
+  "products": [
+    {
+      "id": "urban-white-beige-sneaker",
+      "name": "Urban Low Sneaker — White/Beige",
+      "category": "sneakers",
+      "price": 3200,
+      "oldPrice": 4200,
+      "images": ["/products/urban-white-beige-sneaker.jpg"],
+      "trending": true,
+      "inStock": true,
+      "details": "সাদা লেদার আপার, বেইজ সুয়েড প্যানেল। হালকা রাবার সোল, অফিস থেকে আড্ডা — সব জায়গায় মানায়।"
+    },
+    {
+      "id": "grey-canvas-low-sneaker",
+      "name": "Grey Canvas Low Sneaker",
+      "category": "sneakers",
+      "price": 1850,
+      "oldPrice": 2400,
+      "images": ["/products/grey-canvas-low-sneaker.jpg"],
+      "inStock": true,
+      "details": "মজবুত ক্যানভাস কাপড়, লাল স্ট্রাইপ ডিটেইল। নরম ইনসোল, প্রতিদিন পরার জন্য আরামদায়ক।"
+    },
+    {
+      "id": "chunky-runner-sneaker",
+      "name": "Chunky Runner Sneaker",
+      "category": "sneakers",
+      "price": 3500,
+      "oldPrice": 4500,
+      "images": ["/products/chunky-runner-sneaker.jpg"],
+      "inStock": true,
+      "details": "মাল্টি-কালার চাঙ্কি ডিজাইন, মোটা কুশন সোল। স্ট্রিট স্টাইলের জন্য পারফেক্ট।"
+    },
+    {
+      "id": "navy-canvas-slip-on",
+      "name": "Navy Canvas Slip-On",
+      "category": "sneakers",
+      "price": 1450,
+      "oldPrice": 1900,
+      "images": ["/products/navy-canvas-slip-on.jpg"],
+      "inStock": false,
+      "details": "ফিতা ছাড়া স্লিপ-অন, নেভি ক্যানভাস। গরমে হালকা ও আরামদায়ক।"
+    },
+    {
+      "id": "classic-white-tee",
+      "name": "Classic White Tee",
+      "category": "t-shirt",
+      "price": 550,
+      "oldPrice": 750,
+      "images": ["/products/classic-white-tee.jpg"],
+      "trending": true,
+      "inStock": true,
+      "details": "১০০% কম্বড কটন, ১৮০ GSM। রেগুলার ফিট, ধোয়ার পরেও শেপ ঠিক থাকে।"
+    },
+    {
+      "id": "essential-black-tee",
+      "name": "Essential Black Tee",
+      "category": "t-shirt",
+      "price": 550,
+      "oldPrice": 750,
+      "images": ["/products/essential-black-tee.jpg"],
+      "inStock": true,
+      "details": "গাঢ় কালো রঙ, সহজে রঙ ওঠে না। ১০০% কটন, রেগুলার ফিট।"
+    },
+    {
+      "id": "mint-cotton-tee",
+      "name": "Mint Cotton Tee",
+      "category": "t-shirt",
+      "price": 600,
+      "oldPrice": 800,
+      "images": ["/products/mint-cotton-tee.jpg"],
+      "inStock": true,
+      "details": "হালকা মিন্ট গ্রিন, নরম অর্গানিক কটন। গরমের দিনে ঠান্ডা ও আরামদায়ক।"
+    },
+    {
+      "id": "oversized-black-tee",
+      "name": "Oversized Black Tee",
+      "category": "t-shirt",
+      "price": 750,
+      "oldPrice": 990,
+      "images": ["/products/oversized-black-tee.jpg"],
+      "inStock": true,
+      "details": "ড্রপ-শোল্ডার ওভারসাইজড ফিট, ২২০ GSM মোটা কটন। স্ট্রিটওয়্যার লুকের জন্য।"
+    },
+    {
+      "id": "white-pique-polo",
+      "name": "White Pique Polo",
+      "category": "polo",
+      "price": 950,
+      "oldPrice": 1250,
+      "images": ["/products/white-pique-polo.jpg"],
+      "inStock": true,
+      "details": "পিকে কটন কাপড়, বাতাস চলাচল করে। স্মার্ট ক্যাজুয়াল ও অফিস — দুই জায়গাতেই চলে।"
+    },
+    {
+      "id": "navy-printed-polo",
+      "name": "Navy Printed Polo",
+      "category": "polo",
+      "price": 1150,
+      "oldPrice": 1500,
+      "images": ["/products/navy-printed-polo.jpg"],
+      "trending": true,
+      "inStock": true,
+      "details": "নেভি বেসে ছোট মাইক্রো প্রিন্ট, কলারে কনট্রাস্ট টিপিং। স্লিম ফিট।"
+    },
+    {
+      "id": "sky-blue-tipped-polo",
+      "name": "Sky Blue Tipped Polo",
+      "category": "polo",
+      "price": 1050,
+      "oldPrice": 1400,
+      "images": ["/products/sky-blue-tipped-polo.jpg"],
+      "inStock": true,
+      "details": "স্কাই ব্লু রঙ, কলার ও হাতায় স্ট্রাইপ টিপিং। নরম কটন-ব্লেন্ড কাপড়।"
+    },
+    {
+      "id": "black-classic-polo",
+      "name": "Black Classic Polo",
+      "category": "polo",
+      "price": 990,
+      "oldPrice": 1300,
+      "images": ["/products/black-classic-polo.jpg"],
+      "inStock": true,
+      "details": "ক্লাসিক কালো পোলো, বুকে ছোট এমব্রয়ডারি। রেগুলার ফিট, সব বয়সে মানায়।"
+    },
+    {
+      "id": "white-formal-shirt",
+      "name": "White Formal Shirt",
+      "category": "shirt",
+      "price": 1250,
+      "oldPrice": 1650,
+      "images": ["/products/white-formal-shirt.jpg"],
+      "inStock": true,
+      "details": "প্রিমিয়াম কটন, ইস্ত্রি করতে সহজ। অফিস, ইন্টারভিউ ও অনুষ্ঠানের জন্য।"
+    },
+    {
+      "id": "sky-blue-oxford-shirt",
+      "name": "Sky Blue Oxford Shirt",
+      "category": "shirt",
+      "price": 1350,
+      "oldPrice": 1750,
+      "images": ["/products/sky-blue-oxford-shirt.jpg"],
+      "trending": true,
+      "inStock": true,
+      "details": "অক্সফোর্ড কাপড়, লম্বা হাতা। ফর্মাল ও ক্যাজুয়াল দুই ভাবেই পরা যায়।"
+    },
+    {
+      "id": "formal-shirt-3-pack",
+      "name": "Formal Shirt 3-Pack — White/Blue/Pink",
+      "category": "shirt",
+      "price": 3200,
+      "oldPrice": 4500,
+      "images": ["/products/formal-shirt-3-pack.jpg"],
+      "inStock": true,
+      "details": "৩টি ফর্মাল শার্টের কম্বো: সাদা, স্কাই ব্লু ও প্যাস্টেল পিংক। আলাদা কেনার চেয়ে অনেক কম দামে।"
+    },
+    {
+      "id": "red-check-flannel-shirt",
+      "name": "Red Check Flannel Shirt",
+      "category": "shirt",
+      "price": 1450,
+      "oldPrice": 1900,
+      "images": ["/products/red-check-flannel-shirt.jpg"],
+      "inStock": true,
+      "details": "লাল-কালো চেক, নরম ফ্লানেল কাপড়। শীতের দিনে একা বা জ্যাকেটের মতো পরা যায়।"
+    }
+  ]
+}

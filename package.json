@@ -1,0 +1,16 @@
+{
+  "name": "vanzo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "serve": "npx serve out"
+  },
+  "dependencies": {
+    "framer-motion": "11.11.9",
+    "next": "14.2.15",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}

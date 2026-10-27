@@ -1,0 +1,23 @@
+{
+  "name": "Vanzo",
+  "logo": "/brand/logo.png",
+  "url": "https://vanzo-bd.netlify.app",
+  "title": "Vanzo — স্নিকার, টি-শার্ট ও শার্ট অফার দামে",
+  "tagline": "Wear the vibe. Pay the offer price.",
+  "description": "Vanzo — স্নিকার, টি-শার্ট, পোলো ও শার্ট অফার দামে। ক্যাশ অন ডেলিভারি, সারা বাংলাদেশে ডেলিভারি।",
+  "whatsapp": "8801540386221",
+  "whatsappDisplay": "+880 1540-386221",
+  "bkash": "01719028055",
+  "social": {
+    "facebook": "https://www.facebook.com/",
+    "tiktok": "https://www.tiktok.com/",
+    "youtube": "https://www.youtube.com/",
+    "instagram": ""
+  },  "address": "পলাশবাড়ী, গাইবান্ধা, রংপুর, বাংলাদেশ",
+  "deliveryDays": "১–৩",
+  "exchangeDays": 3,
+  "delivery": {
+    "inside": { "label": "রংপুরের ভিতরে", "charge": 50 },
+    "outside": { "label": "রংপুরের বাইরে (সারা বাংলাদেশ)", "charge": 120 }
+  }
+}
